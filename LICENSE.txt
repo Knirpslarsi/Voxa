@@ -1,0 +1,20 @@
+Voxa – Lizenzbedingungen
+
+Copyright (c) 2026 Knirpslarsi. Alle Rechte vorbehalten.
+
+Voxa ist keine Open-Source-Software. Der Quellcode ist nicht Teil dieser Veröffentlichung.
+
+Erlaubt ist:
+- Voxa herunterzuladen und für eigene Streams zu nutzen, auch für monetarisierte Streams.
+
+Nicht erlaubt ist:
+- Voxa oder Teile davon weiterzugeben, zu verkaufen oder erneut zu veröffentlichen.
+- Voxa zu verändern, zu dekompilieren oder den Inhalt des Programmpakets zu entnehmen,
+  soweit dies nicht gesetzlich zwingend erlaubt ist.
+
+Voxa wird ohne Gewähr bereitgestellt, soweit gesetzlich zulässig.
+
+Enthaltene Komponenten Dritter unterliegen weiterhin ihren eigenen Lizenzen:
+- Electron und Chromium (MIT und weitere; siehe Lizenzdateien im Programmpaket)
+- ws (MIT)
+- Schriftart Manrope (SIL Open Font License 1.1)
